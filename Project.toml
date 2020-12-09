@@ -1,0 +1,4 @@
+name = "MinIOCI"
+uuid = "d76dfd90-5c9c-4597-95f6-ec8e1b219d8d"
+authors = ["Fabian Gans <fgans@bgc-jena.mpg.de>"]
+version = "0.1.0"
